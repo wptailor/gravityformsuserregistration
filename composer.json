@@ -1,0 +1,10 @@
+{
+    "name": "rocketgenius/gravityformsuserregistration",
+    "type": "wordpress-plugin",
+    "description": "Allows WordPress users to be automatically created upon submitting a Gravity Form",
+    "license": "GPL-3.0",
+    "authors": [],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
